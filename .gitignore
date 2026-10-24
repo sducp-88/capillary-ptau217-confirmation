@@ -1,0 +1,9 @@
+evidence/
+data/
+results/
+figures/
+qa/
+runtime_environment.json
+.venv/
+__pycache__/
+*.pyc

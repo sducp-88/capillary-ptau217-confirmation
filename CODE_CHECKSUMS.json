@@ -1,0 +1,11 @@
+{
+  ".gitignore": "e2e83344ba2089c8628e77ada84dde834a74ae08ef04b8210ffd0de65cf48511",
+  "README.md": "92ef593ca2cc040b030100f4a5dcf30caf851304bad2d5c9e73dc0b9d4879cdf",
+  "requirements.txt": "6184ef6ff15d76ba282d70031b296e42304f3fe2aaaa0e1d04247586ab7aa42c",
+  "protocol/AMENDMENT_20261009.md": "f1d6e8c355a4dbb1af4a2fb818a994d43f0a8688c6b5c481a13ecfe2f918e0b8",
+  "protocol/ANALYSIS_PLAN_v1.md": "6266619c1226096d2e27bae969750b6dd4f5e92f7c82336e61881f9acd80a888",
+  "scripts/analyze.py": "b0b6b01d8c54af3698fa4b5b84222ec96504b958b0cbbce8191038eb048714e6",
+  "scripts/calculate_planning.py": "0733b5f81d10c582e1ec14b6e4f8feb974104b06c66901d02799f74c67515d36",
+  "scripts/download_source.py": "2763257d442311aa5cdb191403322f7d53b9d8967041e6d1c6236566149a33f6",
+  "scripts/make_figures.py": "6bc290d07b62cb56eafcb4c98aec08abe18af45f7f307efc00692cbc685256f9"
+}
